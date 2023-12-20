@@ -1,6 +1,6 @@
 # Projeto First App Ionic
 
-Este é o meu primeiro projeto em Ionic, uma aplicação de feed de filmes que consome uma API e utiliza funcionalidades nativas, como a abertura da câmera do celular.
+Este é o meu primeiro projeto em Ionic, uma aplicação de feed de filmes que consome uma API e utiliza funcionalidades nativas, como acionar a câmera do celular.
 
 ## Tecnologias Utilizadas
 
